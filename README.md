@@ -1,3 +1,7 @@
+20190130 by JungleYang
+Known Issue
+new user ,langkey error.must choose lankey one time.
+
 # store
 This Application refers to the book "**Full Stack Development with JHipster** by Deepu K Sasidharan and Sendil Kumar”.
 
